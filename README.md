@@ -56,7 +56,7 @@ O projeto foi desenvolvido para eliminar a necessidade de buscas manuais repetit
 
 ## 🏗️ Arquitetura do Fluxo
 
-```mermaid
+```
 graph TD
     A[Gatilho Agendado - 23h] --> B[Inicialização de Variáveis]
     B --> C[Loop por Palavra-Chave]
