@@ -1,4 +1,4 @@
-# 📊 LinkedIn Job Scraper Automation
+# 📊 Automação de Rastreador de Vagas do LinkedIn
 
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-Low--Code-blue?logo=microsoft-power-automate)](https://powerautomate.microsoft.com/)
 [![Status](https://img.shields.io/badge/Status-Production-green)]()
