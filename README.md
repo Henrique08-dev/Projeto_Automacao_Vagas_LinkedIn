@@ -1,7 +1,6 @@
 # 📊 LinkedIn Job Scraper Automation
 
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-Low--Code-blue?logo=microsoft-power-automate)](https://powerautomate.microsoft.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production-green)]()
 
 > **Automatize sua busca diária por vagas de Dados e BI no LinkedIn, recebendo um relatório estruturado diretamente no seu e-mail.**
@@ -20,7 +19,6 @@
 - [Estrutura dos Arquivos](#-estrutura-dos-arquivos)
 - [Desafios e Soluções](#-desafios-e-soluções)
 - [Melhorias Futuras](#-melhorias-futuras)
-- [Licença](#-licença)
 - [Contato](#-contato)
 
 ---
@@ -95,7 +93,7 @@ Antes de importar o fluxo, certifique-se de ter:
 
 ### 1. Clone este repositório
 ```bash
-git clone https://github.com/seu-usuario/linkedin-job-scraper-automation.git
+git clone [https://github.com/Henrique08-dev/Projeto_Automacao_Vagas_LinkedIn.git]
 cd linkedin-job-scraper-automation
 ```
 
